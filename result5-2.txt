@@ -1,0 +1,315 @@
+// solution (optimal) with objective 572
+Day1
+Teacher2
+period1  Math Student64  Japanese Student53
+period2  Math Student53  Social Student23
+period3  English Student72  Japanese Student48
+period4  Math Student72  English Student103
+Teacher3
+period1  English Student44  Japanese Student73
+period2  English Student92  Science Student32
+period3  Japanese Student90  kEnglish Student87
+period4  Japanese Student62  Social Student65
+Teacher4
+period1  Math Student121  Math Student124
+period2  English Student121  Science Student64
+period3  Science Student46  Science Student68
+period4  Math Student33  kMath Student7
+Teacher5
+period1  English Student63  Japanese Student8
+period2  Math Student63  English Student8
+period3  Math Student25  Japanese Student18
+period4  Science Student25  kMath Student87
+Teacher6
+period1
+period2
+period3  Math Student92  Japanese Student2
+period4  Math Student2  Japanese Student68
+Teacher7
+period1  Math Student79  English Student6
+period2  Math Student73  English Student6
+period3  Math Student11  kEnglish Student69
+period4  Math Student11  Math Student82
+Teacher8
+period1  English Student38  English Student50
+period2  English Student38  Japanese Student50
+period3  English Student82  English Student113
+period4  English Student125  kEnglish Student19
+Teacher18
+period1  Math Student102  English Student112
+period2  Math Student112  English Student102
+period3  Math Student62  Japanese Student118
+period4  Math Student118  English Student81
+
+
+Day2
+Teacher1
+period1  Math Student98  Science Student107
+period2  Math Student107  kMath Student42
+period3  English Student48  Science Student28
+period4  Math Student21  Math Student48
+Teacher2
+period1  Math Student3  Japanese Student11
+period2  Math Student3
+period3  English Student117  Social Student103
+period4  Math Student103  Social Student118
+Teacher3
+period1
+period2
+period3  English Student25  English Student62
+period4  English Student25  English Student62
+Teacher5
+period1  English Student18  kMath Student80
+period2  Math Student18  Math Student116
+period3  Math Student59  Social Student1
+period4  Science Student4  kMath Student87
+Teacher6
+period1
+period2  Math Student52  kEnglish Student80
+period3  Math Student125  English Student10
+period4  Math Student68  Social Student2
+Teacher8
+period1
+period2  English Student109  English Student130
+period3  English Student130  Japanese Student49
+period4  English Student5  English Student108
+Teacher9
+period1
+period2  Japanese Student36  Japanese Student70
+period3  English Student76  Japanese Student32
+period4  Japanese Student56  kEnglish Student7
+Teacher10
+period1
+period2
+period3  Science Student29  Science Student71
+period4  Math Student71  English Student29
+Teacher11
+period1
+period2
+period3  English Student83  Japanese Student46
+period4  Math Student46  Japanese Student9
+Teacher12
+period1
+period2
+period3  Math Student100  Science Student101
+period4  Math Student100  Social Student101
+Teacher13
+period1
+period2
+period3  Math Student85  English Student54
+period4  English Student53  Japanese Student54
+Teacher15
+period1
+period2
+period3  Math Student108  Science Student2
+period4  Math Student113  Science Student50
+Teacher18
+period1
+period2
+period3  Math Student35  English Student118
+period4  Japanese Student35  Science Student75
+Teacher19
+period1
+period2  English Student24  English Student61
+period3  English Student33  Japanese Student23
+period4  English Student23  English Student64
+
+
+Day3
+Teacher6
+period1  Math Student106  English Student52
+period2  English Student111  kEnglish Student94
+period3  Math Student5  English Student68
+period4  English Student2  English Student68
+Teacher7
+period1  Math Student4  English Student36
+period2  Math Student27  English Student73
+period3  Math Student9  Math Student84
+period4  Math Student127  kEnglish Student69
+Teacher9
+period1  English Student58  Japanese Student67
+period2  English Student58  Social Student67
+period3  English Student32  English Student56
+period4  Social Student130  kEnglish Student15
+Teacher11
+period1
+period2
+period3  Math Student28  Social Student129
+period4  Math Student90  English Student129
+Teacher12
+period1
+period2
+period3  Science Student40  Science Student100
+period4  Math Student20  English Student100
+Teacher13
+period1  Japanese Student34  Science Student110
+period2  Math Student34  English Student110
+period3  English Student85  Science Student14
+period4  English Student97  Science Student65
+Teacher14
+period1
+period2
+period3  Japanese Student58  Japanese Student93
+period4  English Student46  Japanese Student101
+Teacher16
+period1  Math Student70  Math Student93
+period2  English Student93  Japanese Student100
+period3  Japanese Student60  Social Student127
+period4  Math Student83  Social Student60
+Teacher17
+period1
+period2
+period3  English Student30  kMath Student19
+period4  Math Student30  Math Student109
+Teacher19
+period1
+period2  Japanese Student4  Japanese Student22
+period3  English Student21  Japanese Student65
+period4  English Student71  English Student84
+Teacher20
+period1
+period2
+period3  Math Student86  Japanese Student83
+period4  Math Student55  kEnglish Student128
+
+
+Day4
+Teacher1
+period1  Math Student89  English Student98
+period2  Math Student119  English Student89
+period3  Math Student126  English Student45
+period4  Math Student21  English Student101
+Teacher2
+period1
+period2  Math Student111  Japanese Student98
+period3  Math Student129  English Student72
+period4  Math Student129  Japanese Student72
+Teacher6
+period1  English Student107  Japanese Student52
+period2  Math Student41  Japanese Student99
+period3  Math Student10  Japanese Student74
+period4  Math Student10  Japanese Student76
+Teacher12
+period1
+period2
+period3  Math Student43  Science Student103
+period4  Math Student40  Social Student20
+Teacher15
+period1
+period2  Math Student105  Science Student84
+period3  Math Student50  Science Student108
+period4  Math Student56  English Student86
+Teacher17
+period1  Math Student17  kMath Student26
+period2  Math Student44  kEnglish Student26
+period3  Science Student12  Science Student130
+period4  Math Student74  Math Student130
+Teacher18
+period1  English Student105  Japanese Student122
+period2  Math Student122  Japanese Student39
+period3  Math Student35  English Student14
+period4  Math Student14  English Student35
+Teacher19
+period1
+period2
+period3  English Student115  Japanese Student84
+period4  English Student13  English Student84
+
+
+Day5
+Teacher1
+period1  Science Student45  kMath Student91
+period2  Math Student45  Math Student104
+period3  Math Student32  Math Student60
+period4  Math Student47  English Student28
+Teacher2
+period1  Math Student117  English Student11
+period2  Social Student117
+period3  Japanese Student81  Social Student53
+period4  Math Student81  Japanese Student12
+Teacher4
+period1
+period2
+period3  Math Student49  Science Student1
+period4  Math Student49  kMath Student7
+Teacher10
+period1
+period2
+period3  English Student29  kMath Student15
+period4  Japanese Student29  kMath Student15
+Teacher11
+period1
+period2  Math Student75  Science Student11
+period3  Math Student115  Science Student83
+period4  Math Student46  Science Student115
+Teacher12
+period1  English Student88  English Student122
+period2  Japanese Student119  Science Student88
+period3  Science Student10  Science Student93
+period4  Math Student101  English Student40
+Teacher13
+period1
+period2  Science Student92  kEnglish Student91
+period3  Math Student97  Japanese Student85
+period4  Math Student65  English Student97
+Teacher15
+period1  Math Student38  English Student104
+period2  Math Student123  English Student55
+period3  Math Student58  Social Student71
+period4  Science Student86  Social Student96
+Teacher19
+period1  English Student75  Japanese Student124
+period2  English Student126  Japanese Student38
+period3  English Student47  English Student65
+period4  English Student71  Japanese Student13
+
+
+Day6
+Teacher3
+period1
+period2
+period3  English Student3  Science Student67
+period4  English Student67  Science Student3
+Teacher5
+period1  Math Student8  English Student120
+period2  Math Student120  kMath Student37
+period3  English Student31  kMath Student37
+period4  Math Student31  Math Student54
+Teacher10
+period1
+period2
+period3  Math Student6  kMath Student95
+period4  Japanese Student6  kMath Student95
+Teacher14
+period1  English Student96  Japanese Student20
+period2  English Student20  Japanese Student3
+period3  English Student66  Japanese Student30
+period4  English Student114  Japanese Student66
+Teacher15
+period1
+period2  Math Student96  Japanese Student104
+period3  English Student51  Science Student77
+period4  Math Student51  English Student77
+Teacher16
+period1  Math Student61  Japanese Student106
+period2  Math Student57  Math Student67
+period3  Math Student114  English Student16
+period4  English Student16  Social Student30
+Teacher20
+period1  Math Student24  Math Student99
+period2  Math Student78  Japanese Student1
+period3  English Student1  English Student78
+period4  Math Student1  Japanese Student78
+
+
+classes sum:180
+compatibility
+-2 : 0
+-1 : 0
+0 : 29
+1 : 86
+2 : 243
+proficiency
+0 : 0
+1 : 113
+2 : 245
